@@ -9,6 +9,6 @@ mkdir gitlab
 cd gitlab
 ```
 ```bash
-ssh-keygen -t ed25519 -c "omar.labib.softwareengineer@gmail.com"
+ssh-keygen -t ed25519 -C "omar.labib.softwareengineer@gmail.com"
 ```
 ---
