@@ -35,3 +35,5 @@ C:\Users\User\.ssh\
 ```bash
 git clone git@gitlab.com:wasuit-group/my-first-pipeline.git
 ```
+
+#### finalyy project clone hoye jabe ssh diye
