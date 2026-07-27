@@ -24,3 +24,5 @@ C:\Users\User\.ssh\gitlab_ed25519
 #### Your identification has been saved in C:\Users\User\.ssh\gitlab_ed25519
 #### Your public key has been saved in C:\Users\User\.ssh\gitlab_ed25519.pub
 ![](https://imgur.com/V7AhFsI)
+#### note pad e open kore copy kore SSH Key te paste koro. (public key paste korte hobe)
+![](https://imgur.com/FnvwFHI.png)
