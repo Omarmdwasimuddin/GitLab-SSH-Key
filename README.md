@@ -19,3 +19,8 @@ C:\Users\User\.ssh\gitlab_ed25519
 #### Enter passphrase (empty for no passphrase): Enter press koro.
 #### Enter same passphrase again: Enter press koro.
 ---
+
+#### kothay ssh key saved hoiche tar path dekhabe nicher moto.
+#### Your identification has been saved in C:\Users\User\.ssh\gitlab_ed25519
+#### Your public key has been saved in C:\Users\User\.ssh\gitlab_ed25519.pub
+![](https://imgur.com/V7AhFsI)
