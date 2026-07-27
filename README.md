@@ -26,3 +26,12 @@ C:\Users\User\.ssh\gitlab_ed25519
 ![](https://imgur.com/V7AhFsI)
 #### note pad e open kore copy kore SSH Key te paste koro. (public key paste korte hobe)---> click koro: Add key
 ![](https://imgur.com/FnvwFHI.png)
+
+---
+
+#### test kore dekhte visit koro: https://gitlab.com/wasuit-group/my-first-pipeline --->click: Code --->Clone with SSH: copy koro.
+#### powershell open koro
+#### PS C:\Users\User\Desktop\gitlab> folder e command koro.
+```bash
+git clone git@gitlab.com:wasuit-group/my-first-pipeline.git
+```
