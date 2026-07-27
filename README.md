@@ -16,8 +16,6 @@ ssh-keygen -t ed25519 -C "omar.labib.softwareengineer@gmail.com"
 ```bash
 C:\Users\User\.ssh\gitlab_ed25519
 ```
-#### Enter passphrase (empty for no passphrase):
-```bash
-
-```
+#### Enter passphrase (empty for no passphrase): Enter press koro.
+#### Enter same passphrase again: Enter press koro.
 ---
